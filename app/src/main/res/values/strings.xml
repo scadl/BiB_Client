@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BiB Client</string>
+    <string name="form1_caption">BiB Client</string>
+    <string name="wait_string">Ожидайте соедиения с сервером... </string>
+    <string name="btnServer">Указать сервер</string>
+    <string name="btnAdd">Добавить объявление</string>
+    <string name="btnAdmin">[Режим Админа]</string>
+    <string name="btnDel">Удалить открытый разд.</string>
+    <string name="btnAddCat">Добавить категорию</string>
+    <string name="lblPubl">Опубликовано</string>
+    <string name="lblUpdt">Обновлено</string>
+    <string name="lblExpire">Истекает</string>
+    <string name="lblAuthtor">Опубликовал</string>
+    <string name="lblAddCat">Раздел:</string>
+    <string name="lblAddCatE">Категория:</string>
+    <string name="lblTitle">Заголовок объявления</string>
+    <string name="lblContact">Контактная информация</string>
+    <string name="lblExpired">Истекает:</string>
+    <string name="lblPrice">Цена($):</string>
+    <string name="lblImg">Путь к обложке (URL)</string>
+    <string name="lblDescript">Описание</string>
+    <string name="btnSubmit">Опубликовать</string>
+    <string name="captionAddAd">Добавление объявления</string>
+    <string name="captionAddCat">Добавление категории</string>
+    <string name="cbCoreCat">Это корневой раздел!</string>
+    <string name="lblCoreDesc">Поместить в раздел:</string>
+    <string name="lblNewCat">Название новой категории</string>
+
+</resources>

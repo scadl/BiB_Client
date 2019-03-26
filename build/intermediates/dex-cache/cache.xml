@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\SCAD\.android\build-cache\cf53dd9ae6f2ca62fb80ff985ac5feac4bce57d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="E:\[Works]\[Programming for Mobile]\Android-IntelliJ\Sevoz1\app\build\intermediates\pre-dexed\debug\classes_a907a3556444cd5f1987167e390f43176ac50617.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_SDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\[Works]\[Programming for Mobile]\Android-IntelliJ\Sevoz1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_5f86edfbedaf26f8eff44e702352717222a6ad28.jar" />
+    </item>
+
+</items>

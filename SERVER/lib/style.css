@@ -1,0 +1,43 @@
+body {
+    font-family: Sans-serif;
+}
+
+input#button {
+    background: silver;
+    border: solid 1px grey;
+    margin-top: 5px;
+}
+
+.catcell {
+    border: 1px solid silver;
+}
+
+#catdetail {
+    color: silver;
+}
+
+#catrow:hover {
+    background: #eee;
+    cursor: pointer;
+}
+
+#controls {
+    background: silver;
+    color: white;
+    font-size: 35pt;
+    width: 64px;
+    text-align: center;
+    border-radius: 10px;
+    padding-bottom: 7px;
+    cursor: pointer;
+}
+
+#controls:hover {
+    background: grey;
+}
+
+a:link,
+a:visited {
+    color: black;
+    text-decoration: none;
+}

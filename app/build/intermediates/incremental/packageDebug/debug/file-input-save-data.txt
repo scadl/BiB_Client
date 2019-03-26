@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Dec 27 14:24:12 MSK 2017
+0.baseType=DIRECTORY
+0.base=E\:\\[Works]\\[Programming for Mobile]\\Android-IntelliJ\\BiB_Client\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

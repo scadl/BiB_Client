@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/btnAdd"
+        android:icon="@drawable/ic_action_add"
+        android:title="@string/btnAdd"
+        android:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/btnServer"
+        android:icon="@drawable/ic_action_web"
+        android:title="@string/btnServer"
+        android:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/btnAdmin"
+        android:icon="@drawable/ic_action_admin"
+        android:title="@string/btnAdmin"
+        android:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/btnDel"
+        android:icon="@drawable/ic_action_del"
+        android:title="@string/btnDel"
+        android:visible="false"
+        android:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/btnAddCat"
+        android:icon="@drawable/ic_action_addcat"
+        android:title="@string/btnAddCat"
+        android:visible="false"
+        android:showAsAction="ifRoom" />
+
+
+</menu>

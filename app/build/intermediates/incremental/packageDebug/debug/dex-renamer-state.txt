@@ -1,0 +1,4 @@
+#Wed Dec 27 14:24:12 MSK 2017
+base.0=E\:\\[Works]\\[Programming for Mobile]\\Android-IntelliJ\\BiB_Client\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,71 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml:7:4-8:65
+	android:name
+		ADDED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml:8:9-63
+uses-permission#android.permission.INTERNET
+ADDED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml:9:5-10:53
+	android:name
+		ADDED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml:10:9-51
+application
+ADDED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml:11:5-24:19
+	android:label
+		ADDED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml:15:9-40
+activity#net.scadsdnd.bib.client.MainActivity
+ADDED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml:16:9-23:20
+	android:label
+		ADDED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml:18:13-50
+	android:name
+		ADDED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml
+INJECTED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml
+INJECTED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml
+INJECTED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml
+		ADDED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml
+		ADDED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Works\Mobile Apps\BiB_Client\app\src\main\AndroidManifest.xml

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="DarkBlue">#0018ad</color>
+    <color name="DarkerBlue">#96beff</color>
+    <color name="DkGrey">#9da2a5</color>
+    <color name="LightBlue">#cadeff</color>
+    <color name="Pink">#ffcbcb</color>
+    <color name="Red">#ff0000</color>
+    <color name="dKGreen">#55d46d</color>
+    <color name="ltGreen">#c8e6ce</color>
+    <string name="app_name">BiB Client</string>
+    <string name="btnAdd">Добавить объявление</string>
+    <string name="btnAddCat">Добавить категорию</string>
+    <string name="btnAdmin">[Режим Админа]</string>
+    <string name="btnDel">Удалить открытый разд.</string>
+    <string name="btnServer">Указать сервер</string>
+    <string name="btnSubmit">Опубликовать</string>
+    <string name="captionAddAd">Добавление объявления</string>
+    <string name="captionAddCat">Добавление категории</string>
+    <string name="cbCoreCat">Это корневой раздел!</string>
+    <string name="form1_caption">BiB Client</string>
+    <string name="lblAddCat">Раздел:</string>
+    <string name="lblAddCatE">Категория:</string>
+    <string name="lblAuthtor">Опубликовал</string>
+    <string name="lblContact">Контактная информация</string>
+    <string name="lblCoreDesc">Поместить в раздел:</string>
+    <string name="lblDescript">Описание</string>
+    <string name="lblExpire">Истекает</string>
+    <string name="lblExpired">Истекает:</string>
+    <string name="lblImg">Путь к обложке (URL)</string>
+    <string name="lblNewCat">Название новой категории</string>
+    <string name="lblPrice">Цена($):</string>
+    <string name="lblPubl">Опубликовано</string>
+    <string name="lblTitle">Заголовок объявления</string>
+    <string name="lblUpdt">Обновлено</string>
+    <string name="wait_string">Ожидайте соедиения с сервером... </string>
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
