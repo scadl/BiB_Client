@@ -1,4 +1,0 @@
-#Tue Mar 26 16:56:55 MSK 2019
-base.0=D\:\\Works\\Mobile Apps\\BiB_Client\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
-path.0=classes.dex
-renamed.0=classes.dex
